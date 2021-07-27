@@ -22,3 +22,9 @@ All of these data are available in /glade/u/home/djk2120/ctsm_trendy_2021/data
    - fd
        - note that they would like us to use their diffuse fraction
    - tswrf
+3. LULCC
+   - states.nc
+   - transitions.nc
+   - management.nc
+4. ndep, using ours instead
+5. population density, using ours instead
