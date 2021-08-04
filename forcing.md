@@ -28,3 +28,9 @@ All of these data are available in /glade/u/home/djk2120/ctsm_trendy_2021/data
    - management.nc
 4. ndep, using ours instead
 5. population density, using ours instead
+
+## Notes on the data
+1. the land-sea mask is different in the newly distributed radiation ...
+    fields data (variables 'tswrf' and 'fd') as compared to all other ...
+    9 variables: 67209 land pixels vs 67420. I guess, we would need ...
+    to drop extra 211 pixels in the data of other variables as well
