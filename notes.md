@@ -7,9 +7,7 @@
 - practice pft-regridding
 
 ### August 17, 2021
-combined all of the downloaded ndep into a single CLM-compatible file
-
-via trendy_2021.ipynb
+combined all of the downloaded ndep into a single CLM-compatible file, via trendy_2021.ipynb
   - copy the four dry/wet nhx/noy arrays
   - add them together and multiply by 1000 (kg->g) for the three other fields 
   - copy date/datesec from Danica's file
