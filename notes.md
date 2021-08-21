@@ -6,6 +6,23 @@
 - inspect Danica's simulations
 - practice pft-regridding
 
+
+### August 21, 2021
+set up AD spin from coldstart
+  - Erik provided the fsurdat and landuse timeseries
+  - Sean provided the forcing data
+  - res = hcru_hcru
+  - 
+
+Danica's simulations
+  - /glade/u/home/dll/TRENDY2020Simulations
+  - /glade/u/home/dll/TRENDY2019Simulations
+
+Actual commands:
+
+
+
+
 ### August 17, 2021
 combined all of the downloaded ndep into a single CLM-compatible file, via trendy_2021.ipynb
   - copy the four dry/wet nhx/noy arrays
